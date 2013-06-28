@@ -1,0 +1,102 @@
+PROD604 - 2
+1;C, A2, C
+
+PROD821 - 2
+1;C, V7n, C
+
+PROD383 - 2
+1;C, A2, C
+
+PROD188 - 2
+1;C, G4, C
+
+PROD802 - 2
+1;C, A2, C
+
+PROD436 - 2
+1;C, B, C
+
+PROD798 - 2
+1;G4, A2, G4
+
+PROD412 - 3
+1;B, A2, B
+1;G4, A2, G4
+
+PROD13 - 2
+1;C, B, C
+
+PROD597 - 3
+1;C, A2, C
+1;G4, A2, G4
+
+PROD132 - 2
+1;B, A2, B
+
+PROD98 - 2
+10;A2, G3, A2
+
+PROD671 - 2
+1;C, B, C
+
+PROD92 - 2
+1;C, A2, C
+
+PROD696 - 2
+1;C, A2, C
+
+PROD336 - 2
+1;C, B, C
+
+PROD253 - 2
+1;C, B, C
+
+PROD642 - 2
+1;C, B, C
+
+PROD787 - 2
+1;A2, V11, A2
+
+PROD835 - 2
+1;C, A2, C
+
+PROD424 - 3
+1;C, B, C
+1;B, A2, B
+
+PROD678 - 2
+1;C, B, C
+
+PROD262 - 2
+1;B, F, B
+
+PROD48 - 2
+1;A1, A2, A1
+
+PROD96 - 2
+5;A2, G3, A2
+
+PROD221 - 2
+1;G4, A2, G4
+
+PROD97 - 2
+11;A2, G3, A2
+
+PROD737 - 2
+1;A2, F, A2
+
+PROD573 - 2
+1;C, A2, C
+
+PROD325 - 2
+1;C, A2, C
+
+PROD715 - 2
+1;C, A2, C
+
+PROD321 - 2
+1;C, B, C
+
+PROD539 - 2
+1;G4, A2, G4
+

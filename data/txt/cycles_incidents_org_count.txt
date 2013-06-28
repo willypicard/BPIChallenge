@@ -1,0 +1,63 @@
+408;C, A2, C
+129;C, B, C
+64;C, V11, C
+44;B, A2, B
+41;C, V7n, C
+37;A2, V11, A2
+29;V7n, A2, V7n
+18;C, G4, C
+18;A2, E, A2
+14;G4, A2, G4
+12;C, A2, V11, C
+8;V11, A2, V11
+8;C, V7, V7n, C
+7;C, V7, C
+7;C, E, C
+6;C, V5, C
+5;V7n, V7, V7n
+5;C, V11, A2, C
+5;C, A2, E, C
+4;C, V3, C
+4;G4, C, G4
+4;C, B, A2, C
+4;B, E, B
+3;A2, B, A2
+3;A2, G1, A2
+3;V7n, B, V7n
+3;C, V7n, V7, C
+3;G4, A2, C, G4
+3;C, F, C
+2;C, E, A2, C
+2;A2, V5, A2
+2;A2, G3, A2
+2;C, D, C
+2;V10, A2, V10
+2;A2, V7, A2
+2;V9, A2, V9
+2;C, V10, C
+2;G4, C, A2, G4
+2;V8, C, V8
+1;V8, C, A2, V8
+1;H, A2, H
+1;B, D, B
+1;C, G3, C
+1;V7n, G4, V7n
+1;B, V5, B
+1;I, B, I
+1;V1, A2, V1
+1;G4, G3, G4
+1;A2, F, A2
+1;I, C, B, I
+1;C, V, C
+1;C, V, A2, B, C
+1;C, G1, C
+1;C, A2, B, C
+1;C, D, A2, C
+1;V8, A2, C, V8
+1;B, V7, B
+1;C, A2, V5, C
+1;V8, A2, V8
+1;E, A2, E
+1;B, C, B
+1;C, E, B, C
+1;V2, C, V2

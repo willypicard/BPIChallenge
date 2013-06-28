@@ -1,0 +1,735 @@
+PROD793 - 5
+2;C, A2, C
+1;C, B, C
+1;B, A2, B
+1;C, V11, C
+
+PROD790 - 12
+6;C, V11, C
+6;C, A2, C
+2;C, E, C
+2;B, A2, B
+2;B, E, B
+2;A2, E, A2
+2;C, B, C
+1;C, E, A2, C
+1;C, E, B, C
+1;C, A2, E, C
+1;E, A2, E
+
+PROD162 - 2
+1;C, F, C
+
+PROD164 - 2
+1;C, B, C
+
+PROD821 - 4
+2;C, F, C
+1;C, G4, C
+1;G4, A2, G4
+
+PROD168 - 2
+1;C, V11, C
+
+PROD642 - 3
+1;C, A2, C
+1;C, B, C
+
+PROD799 - 2
+1;C, A2, C
+
+PROD644 - 2
+1;C, A2, C
+
+PROD645 - 2
+1;C, A2, C
+
+PROD646 - 3
+2;C, B, C
+1;C, A2, C
+
+PROD791 - 2
+12;C, A2, C
+
+PROD494 - 4
+5;C, V11, C
+2;C, A2, C
+2;C, B, C
+
+PROD496 - 2
+1;C, B, C
+
+PROD314 - 2
+1;C, A2, C
+
+PROD312 - 3
+3;C, A2, C
+1;B, A2, B
+
+PROD318 - 3
+8;C, A2, C
+1;G4, A2, G4
+
+PROD542 - 12
+39;C, V7n, C
+29;V7n, A2, V7n
+8;C, V7, V7n, C
+5;V7n, V7, V7n
+5;C, V7, C
+3;V7n, B, V7n
+3;C, A2, C
+3;C, V7n, V7, C
+2;A2, V7, A2
+1;V7n, G4, V7n
+1;B, V7, B
+
+PROD546 - 2
+2;C, A2, C
+
+PROD259 - 2
+1;C, V11, C
+
+PROD258 - 3
+27;C, A2, C
+1;C, B, C
+
+PROD704 - 2
+2;C, A2, C
+
+PROD707 - 2
+1;C, B, C
+
+PROD706 - 2
+2;C, V7n, C
+
+PROD253 - 7
+5;C, A2, C
+4;C, V11, C
+2;C, V5, C
+1;C, B, C
+1;C, V, A2, B, C
+1;C, V, C
+
+PROD700 - 6
+1;G4, C, G4
+1;G4, C, A2, G4
+1;C, A2, C
+1;G4, A2, C, G4
+1;G4, A2, G4
+
+PROD412 - 2
+1;C, G4, C
+
+PROD818 - 2
+2;C, G4, C
+
+PROD815 - 2
+1;C, A2, C
+
+PROD814 - 2
+1;C, A2, C
+
+PROD765 - 3
+1;A2, F, A2
+1;C, A2, C
+
+PROD672 - 2
+1;C, B, C
+
+PROD173 - 2
+1;C, A2, C
+
+PROD171 - 3
+1;C, V11, C
+1;C, A2, C
+
+PROD565 - 2
+1;C, V11, C
+
+PROD482 - 2
+1;C, A2, C
+
+PROD363 - 3
+3;C, A2, C
+1;C, B, C
+
+PROD360 - 2
+1;C, G4, C
+
+PROD365 - 3
+1;C, A2, C
+1;C, B, C
+
+PROD364 - 2
+1;C, V11, C
+
+PROD97 - 2
+1;A2, G3, A2
+
+PROD552 - 2
+1;C, A2, C
+
+PROD553 - 2
+1;C, A2, C
+
+PROD558 - 6
+1;G4, C, G4
+1;G4, C, A2, G4
+1;C, A2, C
+1;G4, A2, C, G4
+1;G4, A2, G4
+
+PROD245 - 2
+1;C, A2, C
+
+PROD716 - 2
+1;C, A2, C
+
+PROD715 - 3
+1;G4, C, G4
+1;C, A2, C
+
+PROD617 - 4
+1;C, G4, C
+1;C, A2, C
+1;C, A2, V5, C
+
+PROD809 - 2
+1;C, V11, C
+
+PROD779 - 2
+1;C, A2, C
+
+PROD802 - 3
+7;C, A2, C
+1;C, B, C
+
+PROD803 - 2
+2;C, B, C
+
+PROD776 - 7
+7;C, A2, C
+3;B, A2, B
+3;V11, A2, V11
+2;A2, E, A2
+1;C, B, A2, C
+1;C, E, A2, C
+
+PROD3 - 2
+1;A2, V5, A2
+
+PROD5 - 2
+1;V9, A2, V9
+
+PROD6 - 2
+1;G4, A2, G4
+
+PROD104 - 2
+6;C, A2, C
+
+PROD13 - 4
+3;C, A2, C
+1;C, V7, C
+1;C, B, A2, C
+
+PROD298 - 2
+1;G4, A2, G4
+
+PROD16 - 3
+2;C, B, C
+1;C, V11, C
+
+PROD17 - 3
+3;C, A2, C
+1;C, V5, C
+
+PROD14 - 2
+1;C, B, C
+
+PROD159 - 3
+2;A2, V11, A2
+1;B, A2, B
+
+PROD125 - 2
+1;B, A2, B
+
+PROD375 - 2
+1;V2, C, V2
+
+PROD377 - 2
+1;C, A2, C
+
+PROD379 - 2
+1;C, A2, C
+
+PROD153 - 2
+1;C, A2, C
+
+PROD279 - 3
+2;C, B, C
+1;C, V11, C
+
+PROD674 - 2
+1;C, B, C
+
+PROD126 - 2
+1;B, A2, B
+
+PROD671 - 2
+1;C, A2, C
+
+PROD670 - 2
+1;C, A2, C
+
+PROD401 - 4
+2;C, A2, C
+2;C, B, C
+1;C, V10, C
+
+PROD92 - 4
+4;C, A2, C
+2;C, V11, C
+1;A2, E, A2
+
+PROD91 - 2
+1;C, A2, C
+
+PROD96 - 2
+1;A2, G3, A2
+
+PROD274 - 2
+4;C, B, C
+
+PROD562 - 3
+1;G4, C, G4
+1;C, A2, C
+
+PROD749 - 2
+1;C, B, C
+
+PROD616 - 3
+1;A2, V11, A2
+1;C, A2, C
+
+PROD395 - 2
+1;C, G4, C
+
+PROD612 - 4
+6;C, A2, C
+2;V10, A2, V10
+1;H, A2, H
+
+PROD611 - 3
+1;C, V3, C
+1;C, A2, C
+
+PROD158 - 6
+10;A2, V11, A2
+4;C, A2, C
+3;C, V11, C
+1;C, A2, V11, C
+1;C, V11, A2, C
+
+PROD743 - 3
+1;G4, A2, G4
+1;G4, G3, G4
+
+PROD742 - 2
+3;C, A2, C
+
+PROD747 - 3
+1;C, V11, C
+1;C, A2, C
+
+PROD746 - 2
+1;C, A2, C
+
+PROD327 - 5
+5;C, A2, C
+4;A2, V11, A2
+2;C, V11, C
+1;A2, G1, A2
+
+PROD618 - 4
+1;C, B, C
+1;B, D, B
+1;C, D, C
+
+PROD589 - 2
+1;C, A2, C
+
+PROD182 - 2
+1;C, A2, C
+
+PROD181 - 2
+1;C, A2, C
+
+PROD180 - 2
+6;C, A2, C
+
+PROD349 - 3
+1;C, G4, C
+1;C, A2, C
+
+PROD261 - 2
+1;C, A2, C
+
+PROD240 - 3
+2;C, G4, C
+1;C, A2, C
+
+PROD271 - 3
+1;C, B, C
+1;C, V10, C
+
+PROD268 - 2
+1;C, A2, C
+
+PROD473 - 2
+1;C, A2, C
+
+PROD604 - 2
+1;C, G4, C
+
+PROD606 - 2
+1;C, V3, C
+
+PROD607 - 2
+1;C, A2, C
+
+PROD514 - 2
+1;C, A2, C
+
+PROD510 - 3
+1;C, B, C
+1;B, A2, B
+
+PROD594 - 2
+1;C, B, C
+
+PROD597 - 8
+2;C, A2, C
+2;C, B, C
+1;C, D, C
+1;C, V3, C
+1;C, V11, C
+1;C, D, A2, C
+1;G4, A2, C, G4
+
+PROD38 - 10
+12;A2, E, A2
+6;C, A2, C
+5;C, E, C
+4;C, A2, E, C
+2;B, E, B
+1;C, A2, V11, C
+1;V11, A2, V11
+1;C, V11, A2, C
+1;C, V11, C
+
+PROD39 - 2
+1;C, A2, C
+
+PROD598 - 2
+1;C, B, C
+
+PROD31 - 2
+1;C, G4, C
+
+PROD211 - 2
+1;C, A2, C
+
+PROD217 - 2
+1;C, V11, C
+
+PROD141 - 2
+1;B, A2, B
+
+PROD215 - 3
+28;C, A2, C
+4;C, B, C
+
+PROD214 - 3
+1;C, G4, C
+1;C, V5, C
+
+PROD198 - 2
+1;A2, V5, A2
+
+PROD350 - 3
+20;B, A2, B
+2;C, B, C
+
+PROD218 - 3
+1;C, A2, C
+1;C, B, C
+
+PROD461 - 3
+1;C, B, C
+1;C, A2, C
+
+PROD775 - 2
+3;C, A2, C
+
+PROD697 - 3
+27;C, A2, C
+2;G4, A2, G4
+
+PROD753 - 2
+1;G4, A2, G4
+
+PROD631 - 2
+8;C, A2, C
+
+PROD637 - 3
+1;V1, A2, V1
+1;C, V11, C
+
+PROD267 - 4
+6;C, B, C
+1;C, A2, C
+1;C, V11, C
+
+PROD520 - 2
+1;C, B, C
+
+PROD698 - 4
+25;C, A2, C
+3;B, A2, B
+1;A2, B, A2
+
+PROD432 - 2
+1;A2, E, A2
+
+PROD29 - 2
+1;C, B, C
+
+PROD621 - 2
+1;C, G4, C
+
+PROD203 - 2
+1;C, A2, C
+
+PROD205 - 2
+1;C, B, C
+
+PROD209 - 5
+3;C, B, C
+1;I, C, B, I
+1;I, B, I
+1;B, A2, B
+
+PROD756 - 2
+1;C, V11, C
+
+PROD124 - 7
+1;A2, B, A2
+1;V8, C, V8
+1;V8, A2, V8
+1;C, A2, C
+1;V8, C, A2, V8
+1;V8, A2, C, V8
+
+PROD754 - 2
+1;C, A2, C
+
+PROD755 - 2
+1;C, A2, C
+
+PROD121 - 2
+1;C, A2, C
+
+PROD120 - 4
+2;C, B, C
+1;C, A2, C
+1;C, B, A2, C
+
+PROD329 - 2
+1;C, A2, C
+
+PROD328 - 7
+5;A2, V11, A2
+5;C, A2, C
+3;C, A2, V11, C
+2;C, V11, C
+1;A2, B, A2
+1;C, V11, A2, C
+
+PROD455 - 2
+1;C, V5, C
+
+PROD454 - 3
+3;C, A2, C
+1;C, B, C
+
+PROD457 - 3
+1;B, V5, B
+1;C, B, C
+
+PROD321 - 4
+4;C, A2, C
+2;C, V11, C
+2;C, B, C
+
+PROD320 - 3
+1;A2, V11, A2
+1;C, A2, C
+
+PROD380 - 2
+1;C, G1, C
+
+PROD142 - 2
+1;B, A2, B
+
+PROD387 - 2
+1;C, A2, C
+
+PROD436 - 3
+2;C, V11, C
+1;C, A2, V11, C
+
+PROD623 - 2
+12;C, A2, C
+
+PROD148 - 3
+2;C, A2, C
+1;C, G3, C
+
+PROD805 - 4
+3;C, A2, C
+1;C, V7, C
+1;C, B, C
+
+PROD235 - 7
+13;C, A2, C
+6;A2, V11, A2
+2;A2, G1, A2
+2;C, A2, V11, C
+1;C, V11, A2, C
+1;C, V11, C
+
+PROD237 - 2
+1;C, G4, C
+
+PROD236 - 7
+17;C, A2, C
+8;A2, V11, A2
+4;C, A2, V11, C
+3;V11, A2, V11
+2;C, V11, C
+1;C, V11, A2, C
+
+PROD50 - 2
+1;B, A2, B
+
+PROD727 - 3
+1;C, V11, C
+1;C, A2, C
+
+PROD137 - 2
+1;B, A2, B
+
+PROD725 - 2
+1;C, A2, C
+
+PROD139 - 2
+1;B, A2, B
+
+PROD154 - 2
+1;C, A2, C
+
+PROD155 - 3
+2;C, A2, C
+1;C, B, C
+
+PROD787 - 2
+2;C, V11, C
+
+PROD764 - 2
+1;C, B, C
+
+PROD428 - 2
+2;C, A2, C
+
+PROD834 - 2
+1;C, A2, C
+
+PROD424 - 8
+56;C, B, C
+17;C, A2, C
+13;C, V11, C
+1;C, V3, C
+1;B, A2, B
+1;V8, C, V8
+1;C, A2, B, C
+
+PROD427 - 2
+1;C, A2, C
+
+PROD789 - 6
+13;C, A2, C
+1;B, A2, B
+1;V11, A2, V11
+1;V9, A2, V9
+1;G4, A2, G4
+
+PROD788 - 2
+1;C, B, C
+
+PROD655 - 2
+1;C, A2, C
+
+PROD423 - 5
+4;C, A2, C
+1;C, B, C
+1;C, V11, C
+1;C, B, A2, C
+
+PROD229 - 2
+2;G4, A2, G4
+
+PROD49 - 4
+4;C, A2, C
+1;B, C, B
+1;B, A2, B
+
+PROD66 - 2
+2;C, A2, C
+
+PROD45 - 2
+1;C, B, C
+
+PROD223 - 2
+1;C, B, C
+
+PROD221 - 4
+2;C, G4, C
+2;C, A2, C
+1;C, V5, C
+
+PROD730 - 3
+2;C, A2, C
+1;B, A2, B
+
+PROD308 - 2
+1;C, G4, C
+
+PROD538 - 2
+1;G4, A2, G4
+
+PROD736 - 2
+4;C, A2, C
+
+PROD303 - 3
+1;C, A2, C
+1;C, B, C
+
+PROD608 - 2
+1;C, A2, C
+
+PROD307 - 2
+1;C, A2, C
+
+PROD306 - 2
+1;C, A2, C
+
